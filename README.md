@@ -1,2 +1,2 @@
-# tinywaf.com
-Website for TinyWAF
+# tinywaf.com/docs
+Docs for TinyWAF
